@@ -40,7 +40,7 @@ body {
 }
 
 .header input {
-    background-color:darkslateblue;
+    background-color:lightgray;
     border:0;
     border-radius: 50px;
     color: white;
