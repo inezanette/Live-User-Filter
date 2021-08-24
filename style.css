@@ -93,3 +93,9 @@ body {
 .user-list li.hide {
     display:none;
 }
+
+footer {
+    background-color:papayawhip;
+    font-family: monospace;
+    font-size:small;
+}
